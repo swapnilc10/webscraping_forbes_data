@@ -1,3 +1,1 @@
-Work in Progress
-
-Plan here is to pull last 2 years of Forbes global 2000 companies and than create Tableau dashboard for it
+I scraped 2023 Forbes global 2000 companies and because I couldn't find the link for year 2022, so I just got the list from Kaggle. I did some preprocessing in python and merged both datasets to get a unified dataset for my Tableau dashboard creation
